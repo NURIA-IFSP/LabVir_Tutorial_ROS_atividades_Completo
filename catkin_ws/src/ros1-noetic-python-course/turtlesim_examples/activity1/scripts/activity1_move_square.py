@@ -22,7 +22,7 @@ side_duration = 3.0
 # Frequência de publicação
 rate = rospy.Rate(1)
 
-for i in range(4):
+for i in range(5):
     # Move em linha reta
     rospy.loginfo("Movendo para frente")
     vel.linear.x = 2.0
