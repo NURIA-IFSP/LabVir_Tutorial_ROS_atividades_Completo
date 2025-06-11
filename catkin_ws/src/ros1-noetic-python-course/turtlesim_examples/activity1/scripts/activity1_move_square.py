@@ -17,7 +17,7 @@ vel.linear.x = 2.0   # Velocidade linear
 vel.angular.z = 0.0  # Sem rotação
 
 # Tempo de execução de cada lado do quadrado
-side_duration = 2.0
+side_duration = 3.0
 
 # Frequência de publicação
 rate = rospy.Rate(1)

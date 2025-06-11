@@ -106,7 +106,7 @@ RUN echo "source /opt/ros/noetic/setup.bash" >> /home/$USERNAME/.bashrc && \
 #  COPY catkin_ws /home/$USERNAME/catkin_ws
 
 # Copia o curso para o catkin_ws/src
-COPY ../LabVir_Tutorial_ROS_atividades_Completo /home/${USERNAME}/catkin_ws/src/ros1-noetic-python-course
+COPY ../catkin_ws /home/${USERNAME}/catkin_ws/
 
 
 # Compila o workspace

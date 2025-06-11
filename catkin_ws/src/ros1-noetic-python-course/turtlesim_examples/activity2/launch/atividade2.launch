@@ -1,0 +1,11 @@
+<launch>
+
+    <!-- Carrega a aplicação turtlesim -->
+    <arg name="jaspion1" default="turtle1" />
+    <node pkg="turtlesim" name="turtlesim" type="turtlesim_node" />
+
+    <!-- Executa o programa de atividade -->
+    <!-- <node pkg="labvir_tutorial_ros_atividades" name="read_pose" type="activity2_read_pose.py" /> -->
+
+
+</launch>
