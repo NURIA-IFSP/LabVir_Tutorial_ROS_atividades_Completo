@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../catkin_ws"
+    },
+    {
+      "path": "../images"
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)"
+  }
+}
